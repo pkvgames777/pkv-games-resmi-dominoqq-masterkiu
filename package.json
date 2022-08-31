@@ -1,0 +1,22 @@
+{
+  "name": "pkv-games-resmi-dominoqq-masterkiu",
+  "theme": "masterkiu",
+  "version": "0.7.0",
+  "description": "Situs daftar dan login pkv games resmi untuk bermain poker, dominoqq, bandarqq, gaple dengan minimal deposit 10rb proses 24 jam setiap hari",
+  "keywords": [
+    "masterkiu",
+    "pkv games",
+    "pkv games resmi",
+    "situs pkv",
+    "agen pkv",
+    "pkv qq",
+    "qq online",
+    "dominoqq",
+    "bandarqq"
+  ],
+  "repository": "https://github.com/pkvgames777/pkv-games-resmi-dominoqq-masterkiu",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
